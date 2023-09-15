@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken");
 
 // secret token
-const JWT_SECRET = 'Mynameis@prince25';
+const JWT_SECRET = 'DNDMNFKDNNDNMNDFMMFD';
 
 const fetchuser = (req, res, next) => {
     // get user from jwt token and add id to req object
